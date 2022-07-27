@@ -1,0 +1,13 @@
+js-mk-src/node_modules
+js-mk-src/package-lock.json
+js-mk-src/npm-debug.log
+js-mk-src/.DS_Store
+node_modules
+jsf/node_modules
+tests/package-lock.json
+tests/npm-debug.log
+tests/.DS_Store
+tests/.git
+.vscode/
+.idea
+.DS_Store

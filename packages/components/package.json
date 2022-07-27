@@ -1,0 +1,33 @@
+{
+  "name": "components",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "libin <li.bin_201818@immomo.com>",
+  "homepage": "https://github.com/libin1991/monorepo-demo#readme",
+  "license": "ISC",
+  "main": "lib/components.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.wemomo.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libin1991/monorepo-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/libin1991/monorepo-demo/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "utils": "^0.0.0"
+  }
+}
